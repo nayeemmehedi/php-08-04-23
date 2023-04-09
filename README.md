@@ -1,25 +1,8 @@
-# php-08-04-23
+data type php 
+.....
 
-index.php 
+total length dkte chai
+strlen("i love u")  =>8
 
-       <?php
-        //print hcche
-         echo "hello world";
-         print "hello world";
-         
-         
-      ?>
-      
-      
-## variable 
-
-          <?php
-          
-          $name ="nayeem"
-          
-          
-         echo "hello world";
-      ?>
-      
-
-    
+koida word ase dkhr jnno
+str_word_count("i love u") =>3
